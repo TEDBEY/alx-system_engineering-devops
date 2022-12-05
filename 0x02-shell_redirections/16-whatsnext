@@ -1,2 +1,2 @@
 #!/bin/bash
-sdfc
+grep -i "root" -A 3 /etc/paswd
