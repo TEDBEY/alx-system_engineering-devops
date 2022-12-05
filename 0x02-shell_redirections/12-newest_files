@@ -1,2 +1,2 @@
 #!/bin/bash
-ssa
+ls -t1 | head -n 10
